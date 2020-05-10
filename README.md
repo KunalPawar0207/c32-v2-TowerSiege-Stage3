@@ -10,5 +10,6 @@ Boiler plate for p5.play : https://github.com/vishnupriya-whitehatjr/BasicLibFil
 
 ## Please refer to code notes for explanation.
 
-### Output Link : https://vishnupriya-whitehatjr.github.io/c30-SlingShotMaze-Stage3/
+### Output Link : https://vishnupriya-whitehatjr.github.io/c32-v2-TowerSiege-Stage3/ 
+(download and check output as it is connected to API).
 
